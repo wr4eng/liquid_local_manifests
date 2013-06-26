@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+
+  <remote  name="wr4" fetch="git://github.com/wr4eng/" />
+
+  <project path="kernel/htc/pico" name="android_kernel_htc_a310e" remote="wr4" revision="cm-10.1" />
+  <project path="device/htc/pico" name="android_device_htc_a310e" remote="wr4" revision="jb-mr1" />
+  <project path="vendor/htc/pico" name="android_vendor_htc_a310e" remote="wr4" revision="ics/jb" />
+
+  </manifest>
